@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -200,7 +199,6 @@ personalized experience.
 <p>
 Operating out of <strong>Dekalb, Georgia</strong>, with services available locally and online.
 Beats By Shay is building a strong presence in Atlanta n more
-</section>
 
 <!-- CONTACT -->
 <section class="contact">
